@@ -1,0 +1,1 @@
+A B ghrelin ¥ + ++ghrelin + + LY294002 LY294002 ¥ ++ LXRa PPARy l ---I 1 1.5 1.5 0.5 ABCA1 LXRa I -~ I1 1.7 1.1 1 4.5 4.6 1.4 ABCG1 ABCG1 I --I 1 3.3 2.3 1.1 GAPDH fl-acti n b I1 1 1.1 1 THP-1 THP-1 c LXRa 

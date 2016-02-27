@@ -1,0 +1,1 @@
+DNA damage 1 t ATR: A TRIP _.. fp53 Serl5 po/-p21 + Gl/S checkpoint .. TopBPI ! tChkI activity (Clasp in: Chk I association) ! f Cdc25C activity l t CdkI activity ! G2JM checkpoint E21rnembrane ERa (via AK1) 

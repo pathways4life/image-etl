@@ -1,0 +1,1 @@
+T cell ( p21Cip ) ( p27Kip ) ~ ~ ~ ~ l_ I ~ /! ~ Bcl-xlCell cycle Apoptosis Protein Synthesis IL-2 production upregulation 0 0 0 0 't 0 't 0 ! Proliferation Cell Survival Cell Survival PD-1 Decreased Decreased Decreased Decreased Decreased signaling: Proliferation Survival Protein Synthesis IL-2 Survival I ITIM I SH2 domain DITSM 0 SH3 domain 

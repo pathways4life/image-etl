@@ -1,0 +1,1 @@
+LIGANDS BDNF EGF Glu I I I RECEPTORS SIGNAL TRANSDUCERS TrkB EGFR mGiuR --R~ ~ RAF1 l MEK I ERK ---------~-------------DOWNSTREAM Downstream kinases Transcription factors Apoptotic molecules TARGETS (MSK1) (Eik1 , CREB) (Caspase 3, 7) 

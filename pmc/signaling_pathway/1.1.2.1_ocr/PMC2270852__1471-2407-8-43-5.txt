@@ -1,0 +1,1 @@
+EGFR, MET rec eptor PKBP -p-STAT3 .-------! stimuli PTEN ~PI3KIIPIP3 -RAS ! p-mTOR " l p-JNK-p-PKB-p-S6K -p-ERK p-p381 p-ss / p-STAT3 nucleus p-PKB SMAD4 p-ERK p-p 38 

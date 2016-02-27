@@ -1,0 +1,1 @@
+Target Genes Target Genes PIP3 IP3+DA cAMP ~ ~ PKC PKC PKA PKA (active) (active) ~ ~ AP1 pAP1 CREB pCREB ~.-------------, / PIP3 IP3+DAG ATP cAMP ~ ~ PKC PKC PKA PKA (active) (active) ~ ~ AP1 pAP1 CREB pCREB ~ / Target Genes 

@@ -1,0 +1,1 @@
+I)-specific stimulus r-specific stimulus A I I \ --+ readout B Compound EC50(nM) (y/8)Ratio MCP(y) CSF(8) Cellular Biochemical' SW13 515 0 .7 735 47 SW14 132 4.5 29.3 2.3 SW19 395 35 11.2 23 SW30 2,700 16 168 186 AS605240 11 7 1,400 0 .083 0 .026 SW23 >10,000 >10 ,000 N.D. N.D. 

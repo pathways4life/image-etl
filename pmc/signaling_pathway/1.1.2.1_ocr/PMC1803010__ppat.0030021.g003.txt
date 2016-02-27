@@ -1,0 +1,1 @@
+RT RT A ¥ GFP 0 GFP-OspF heat shock 8 ( WSC1/2/3 ) ( MID2 ) ~ ´ ( RH01 ) + ( PKC1 ) + MAPKKK ( BCK1 ) + MAPKK ( MKK1/2 ) + MAPK ( SLT2 ) + ( RLM1 ) c OspF -+ + stress -+ -+ SLT2-@heat shock loading control -KSS1 -~ -FUS3-p loading control mating factor hyperosmotic HOG1-@ shock loading control 

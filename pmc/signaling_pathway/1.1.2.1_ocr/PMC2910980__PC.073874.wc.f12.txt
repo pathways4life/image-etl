@@ -1,0 +1,1 @@
+1000 1000 Full-length ABAR/CHLH A 1 1381 140 530 630 r 1054Potential transmembrane domain at N-terminus 1157 Core of ABAbinding domain Potential transmembrane domain at C-terminus Domain of ABAR-WRKY40 interaction B No or low ABA High ABA ABI51AB/4/ABF41MYB2 Nudeus ABA responses 

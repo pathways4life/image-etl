@@ -1,0 +1,1 @@
+~(protease) 0 CLV1 CLV2 ~(protease) 0 CLV1 CLV2 CLV3 (propeptide) CLV3 (ligand) (plasma membrane) 1 (nucleus) -¥POL/ PLL1 (phosphatases) '---4á--wus (transcription factor) Specification of stem cells 

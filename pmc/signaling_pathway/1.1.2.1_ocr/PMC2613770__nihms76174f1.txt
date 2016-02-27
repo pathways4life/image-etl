@@ -1,0 +1,1 @@
+Canonical pathway (TNFa, IL-1 , LPS) 0 OTNFa 0 T N Fa receptor Phosphorylation ~I KBRELA I1 Ubiquitin proteasome processing 1 Canonical pathway (TNFa, IL-1 , LPS) 0 OTNFa 0 T N Fa receptor Phosphorylation ~I KBRELA I1 Ubiquitin proteasome processing 1 ~ ~ L Target gene expression CCR Molecular Pathways 

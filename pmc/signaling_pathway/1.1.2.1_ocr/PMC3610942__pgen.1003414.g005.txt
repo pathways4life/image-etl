@@ -1,0 +1,1 @@
+-Glu gene in Modu le -Rib gene in Module -Reg loci in Module -Activate -Inhibit -Transcriptional regulation -Physical interaction ---Genetic interaction --.... Linkage in eQTL 

@@ -1,0 +1,1 @@
+nutrients 1 rapamycin ~ 1 1 heat shock tunicamycin '\./proteincycloheximide ~synthesis ---+ ER stress SiP ~SiP ATPase PBO \: _/ ATPase PBD 1 inactive active 

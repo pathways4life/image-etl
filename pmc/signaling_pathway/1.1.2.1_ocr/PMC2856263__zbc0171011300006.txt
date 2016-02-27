@@ -1,0 +1,1 @@
+IDMXAA I / ~ INOD1 I INOD2 1 IRICK I ITBK1 (tank-binding kinase-1) ! ! INF-KB I IRF-3 -. p-IRF-3 dimers l ~.----1-----, IRF-3 dependent genes: NF-KB dependent genes: Chemokines, Cytokines, IFN-beta, etc. NOD2, etc. 

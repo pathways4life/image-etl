@@ -1,0 +1,1 @@
+insulin 1 insulin receptor tyrosine kinase 1 IRS proteins PI3K IPI(4,5)P21 1 PI(3,4,5)P3 l PDKl 1 PKB/Akt (activated) 1 GSK3 (inhibited) 1 glycogen synthase (activated) outside membrane inside 

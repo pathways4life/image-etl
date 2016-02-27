@@ -1,0 +1,1 @@
+Ligand dependenf -indirecf genomic -0 o+l -i -Ligand dependent -non-genomic Ligand dependenf -indirecf genomic -0 o+l -i -Ligand dependent -non-genomic Ligand independent -genomic and non-genomic Physiological -effects~ Active kinases 1/r(e.g. MAPK, ERK-EGF ~Protein klnases) ~ Insulin -QD{IJ-DeTGFa Activins 

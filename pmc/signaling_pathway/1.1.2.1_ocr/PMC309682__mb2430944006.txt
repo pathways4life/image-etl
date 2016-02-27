@@ -1,0 +1,1 @@
+A Common pathway with differential activation threshold Insulin Insulin ~ ~ lnR lnR ~ ~ IRS IRS ~ ~ PTEN -PI3K \, PTEN -PI3K \, ~ PDK1 ~ PDK1 Akt _./ Akt _./ 1 1 TSC TSC 1 1 TOR TOR 1 \, 4E·BP S6K State ooo0 b c d Starved a Order Primed Sequential Coordinated b '~q}o Insulin treatment 0 0 d e Final 0 oo b ca 

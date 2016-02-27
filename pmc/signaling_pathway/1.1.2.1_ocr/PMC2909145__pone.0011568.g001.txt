@@ -1,0 +1,1 @@
+kcat,3 kcat,2 kcat,3 kcat,2 X,: ~1.1 Output Signal 

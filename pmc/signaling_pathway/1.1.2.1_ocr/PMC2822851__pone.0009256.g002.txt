@@ -1,0 +1,1 @@
+Relation Type Rela tion Effect ProtModification MoiTransport сссссссс-сссе > Positive DirectRegulation --ее,..., MoiSynthesis -ссс...с-сссссс! Negative Binding -ссссссс-сссссс> Unknown ~ChemicaiReaction --ее..... PromoterBinding -ссссссс-ссссссс"" Regulation Expression e 

@@ -1,0 +1,1 @@
+a IL-6 ( gp130-STAT1~ + b IL-6 I gp130-STAT1/3 ~ WT gp130-STAT1/3 gp130-SHP2/Ras/MAPK -20% gp130-STAT1/3 gp130-SHP2/Ras/MAPK c IL-6, gp130-STAT1/3 + F/F -gp130-STAT1/3 gp130-SHP2/Ras/MAPK 
