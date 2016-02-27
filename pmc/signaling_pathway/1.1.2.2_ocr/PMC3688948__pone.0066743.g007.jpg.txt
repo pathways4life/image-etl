@@ -1,0 +1,18 @@
+PAR2
+
+CH1/2 G-1 ‘
+\ ‘ Rh0A T Rho kinaset
+@ .
+
+1 AC PLC-[5 1 ' |
+|
+
+: MYPTI
+IKK
+IP3/Ca“/MLCK l |
+IKBp/NF-KB/PKA MLC2o
+MLCZU (IKBdegradation) I
+
+Iniltul | Suxlumed
+( vnlraczion PKA release (bmraclian
+

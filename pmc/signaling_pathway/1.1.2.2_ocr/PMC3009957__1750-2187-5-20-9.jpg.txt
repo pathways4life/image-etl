@@ -1,0 +1,42 @@
+PPAR-1 Ligand
+(Troglitazone)
+
+P|3K Inhibitor
+
+-Serum
+
+PakIAkt
+inhibitors
+
+V
+
+Phosphorylation of
+Amsemn
+
+1
+
+Phosphorylation of
+i=oxo1'Wii=oxo3a'M2
+
+1
+
+Tumor progression
+
+\/
+
+-i-Serum
+
+Activation ofP|3K pathway
+
+\
+
+Inhibition of CREE
+
+1
+
+Attenuation of cyclin D1
+
+1
+
+ 
+

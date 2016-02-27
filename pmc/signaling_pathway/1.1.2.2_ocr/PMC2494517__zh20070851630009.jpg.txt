@@ -1,0 +1,12 @@
+Cell Proliferating
+Signal (e.g. GF)
+
+$ Src
+
+$ PI3K/Akt *p27
+
+§ p57
+4 Cyclin D1
+
++Proliferation
+

@@ -1,0 +1,26 @@
+Ligands:
+TGF-LXH. acﬁvins,
+BMPs. chordin
+
+Rsceplors:
+TBRi~|||, ActRI~||.
+
+betaglycan
+Smads:
+
+Smad1~8
+
+ECM:
+COL. FN, LAM
+
+ 
+
+ »Fibrqnectins
+— »LamInIns
+
+Fibrotic responses
+
+ 
+
+BMF’R|~||, ALK1~7,
+

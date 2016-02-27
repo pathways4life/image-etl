@@ -1,0 +1,11 @@
+A B
+
+A3A Ethylene ABA
+/ \ 
+ETR ETR
+CTRI CTRI
+EIN2 EIN2
+Inhibition of Inhibition of
+
+root growth root growth
+

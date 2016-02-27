@@ -1,0 +1,10 @@
+90 0 H Renal tubular cells
+LRP6/ IV V U Fz cytoplasm
+LRP5 l
+
+   
+ 
+
+\
+nucleus \
+

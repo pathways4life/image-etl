@@ -1,0 +1,28 @@
+o 0 —
+O 0 0 Saturated Fat‘tyAcids
+I I
+v o
+O 0 Fatty Acyl-CoAs
+1
+1 Inhibition of Autophagic Flux
+1
+
+ 9
+R e
+I
+
+CBMKKE Ectopic Lipid Accumulation
+1
+AMPK Lysosome
+I
+Autophagylupophagy
+Autophagosome
+Increase Lipolysis
+
+Reduction of Ectopic Lipid Accumulation
+
+I
+
+Prevent Cardiovascuiar Disease
+Improve Cadiovascular Function
+

@@ -1,0 +1,16 @@
+TGF-B1 EGF
+
+|—— 53431542 L
+I 1 1
+
+EMT EGFR |—AG1478
+
+l
+
+Ras
+
+MEK1/2 |— uo126
+
+Stemness &
+tumorigenicity
+

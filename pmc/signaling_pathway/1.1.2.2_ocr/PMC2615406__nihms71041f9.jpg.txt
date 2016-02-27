@@ -1,0 +1,20 @@
+ISCHEMIA
+
+Y
+CAVEOLAE
+
+Km: channel closure
+
+V
+ENDOTHELIAL CELL MEMBRANE DEPOLARIZATION
+
+NADPH oxidase activation
+
+V
+T ROS
+
+Activation of signaling pathways
+
+V
+CELL PROLIFERATION
+

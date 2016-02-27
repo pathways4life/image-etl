@@ -1,0 +1,17 @@
+Shh signals BMP 2,4 signals
+
+i 1
+
+Gli transcription Smad activation
+Gli target genes Smad target genes
+(MycN, Cyclins D/E, Gli) (|d1, |d2)
+
+i i
+Ii Atoh1/Math1
+
+GCP proliferation Protein degradation
+
+i_'i
+
+MB formation GCP differentiation
+

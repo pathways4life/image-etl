@@ -1,0 +1,59 @@
+A CROSSTALK
+high osmolarity
+
+~I—
+
+    
+ 
+
+ 
+
+Sho1
+
+  
+
+B hog1A ste5A [sorbitol] (M)
+1
+
+0.5
+0.25
+0.125
+0.0625
+0
+
+cell number —»
+
+10° 10‘ 109 103
+ﬂuorescence (A.U.)
+
+C hog1A STE5
+
+   
+
+01F response [Dﬂ sorbutol response Isorbitoll
+(UM) (M)
+10 1
+I 3 I 0.5
+3 1 g 0.25
+E 0.3 § 0.125
+E C
+= 0.1 = 0.0625
+8 8
+0 0
+10° 10‘ 102 103 10° 10‘ 102 10’
+ﬂuorescence (A.U.) fluorescence (A.U.)
+
+$100 . 100
+
+'8
+
+‘f 50 50
+
+to
+
+E 0 0
+
+0.1 1 10 0.01 0.1 1
+
+01F (uM) sorbitol (M)
+

@@ -1,0 +1,22 @@
+INPUTS
+
+Fat
+
+Ex
+
+Others
+
+cam components
+
+OUTPUTS
+
+Tissue
+growth
+
+ 
+
+nu onnl
+homeostasis
+
+autophagy
+

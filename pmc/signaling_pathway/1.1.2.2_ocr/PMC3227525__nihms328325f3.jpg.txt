@@ -1,0 +1,52 @@
+Control
+Sox17 sIRNA
+W
+N1
+! N1+Wnt3a
+
+Cdc42bpb t 1 CdrA2bPb
+P-PAK1
+
+Ii
+'1
+
+Q1042 -— j
+
+P-ERK1/2 _. to P'ERK”2 ‘ —
+
+p27 - -_ P27
+SFRP1 .— ..
+
+SFRP1 é -
+
+Axin2 - « -
+Axin2 on —- _
+
+cyc|InD1 f -
+C-myc > - -4 MBP -
+actin 11 actin :3
+
+_ PTK
+GpcR Integnns V
+
+   
+   
+  
+
+O Upregulated by
+
+Sox17 siRNA
+
+O Downregulated by
+
+Sox17 siRNA
+
+ma ‘/ E?
+
+@
+Non-canonical 1
+
+‘/ \.
+
+  
+

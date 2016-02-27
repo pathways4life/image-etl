@@ -1,0 +1,22 @@
+INCREASED LEFT RIGHT
+Migration Rate
+
+DECREASED DECREASED
+Migration Rate Migration Rate
+
+ 
+
+Nodal signaling through FoxH1 increases myocardial
+migration rates on the left
+
+Bmp signaling to the endocardium non-autonomously
+decreases myocardial migration rates on the right and
+potentially tempers Nodal-induced increases in velocity
+on the left
+
+Nodal signaling on the left indirectly limits Bmp pathway
+activation, likely through competition for Smad4
+
+FoxH1 is required for cardiac cell responsiveness to Bmp
+signals and endocardial activation of the Bmp pathway
+

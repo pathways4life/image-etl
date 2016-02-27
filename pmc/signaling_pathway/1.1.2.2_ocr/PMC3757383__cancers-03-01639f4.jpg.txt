@@ -1,0 +1,23 @@
+TRAIL/Apo-2L I
+
+chemotherapy Drugs.
+
+7- radiation
+
+I
+
+DR4 1
+Dﬁ5 DNA Damage
+
+3*?
+4_
+
+F:
+
+Active caspase-8. -10 c_FL|Ps
+
+Procaspase-8 . -10
+
+c-FLlP._
+Apoplosis
+

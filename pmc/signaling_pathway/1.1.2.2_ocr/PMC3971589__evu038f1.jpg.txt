@@ -1,0 +1,18 @@
+I G protein heterotrimeric complex
+I G protein regulators
+
+I Alternative upstream to G proteins
+I Alternative dowstream to GPCR
+
+O
+N
+
+6 Protein Coupled Receptor
+
+     
+
+\ o
+. ' GoLoco
+
+downstream signaling
+

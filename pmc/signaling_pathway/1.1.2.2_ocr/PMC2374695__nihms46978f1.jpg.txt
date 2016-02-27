@@ -1,0 +1,12 @@
+H202
+
+Multistep phosphorelay
+Sensor histidine kinase Mak2,*Mak3
+Phosphotransferase Mpr1
+Response regulator Mcs4
+MAPK cascade
+
+MAPKKK Wis4,"Win1
+MAPKK Wi‘s1
+MAPK S:c1
+

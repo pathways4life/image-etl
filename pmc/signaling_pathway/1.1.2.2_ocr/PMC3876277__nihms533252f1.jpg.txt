@@ -1,0 +1,86 @@
+A
+
+Name BioCarta pathway Size NES NOM P
+H_PGC1/RPATHWAY Regulation of PGC-1 a 11 -1.64 0.0218
+H_MALPATHWAY Role of MAL in Rho-mediated activation of SRF 19 -1.61 0.0219
+H_RAC1F'ATHWAV Flac 1 cell motility signaling pathway 20 —1.41 0.0625
+H_MAPKPATHWAY MAPKinase signaling palhway 81 —1.30 0.0625
+H FMLPPATHWAY fMLP induced chemokine gene expression in HMC-1 cells 25 —1.42 0.0776
+B C
+
+— — + + SAHA
+
+C rovvm lactoi, uv. 5"e$$- °s_m_°'ic ¢
+Home ham. shock. wadlauan.
+
+   
+    
+
++1
++.
+++
+++
+
+RAPGEF2
+
+THADD
+TRAF2
+
+HRAS
+
+ERAF
+
+FAKI
+
+MAPAIK1 |MAp4K
+MAFAKE
+
+MAFBKA
+
+MAFSKS MAPQK
+MAFBKS
+
+MAFSKS
+
+MAFZKS
+
+MAP2K6 IMAFZK
+MAPK14 lMApK
+CEBPA
+
+CREBI
+
+ELK1
+
+FOS Tavgelsof
+
+MAP4K
+
+    
+    
+
+MAFZK MAPEIK
+
+MAPK
+
+MAPKAPK5 MAPK
+MKNK1
+
+HPSSKA1
+
+RPSEKAS
+HPSSKEZ
+
+2
+‘E
+II.
+
+Targets oi
+MAPK
+
+Yransulpiion
+
+Relative gene expression
+
+W -High
+

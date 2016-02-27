@@ -1,0 +1,32 @@
+‘ .» Non-small cell lung cancer pathway from
+KEGG
+
+Z) Shared edges with SpliceNet
+
+——-> Shared edges with SpliceNet
+and RNASeqNet
+
+MAPK signaling
+
+EMF 6 6
+
+P|3K-AKT signaling
+
+  
+   
+     
+    
+ 
+
+Data: 45 Lung squamous cell cancer samples
+
+( 28 exons
+
+34 eX°"5 :> Shared edges with Sp|iceNet
+
+Data: 30 Lung squamous cell
+
+24 axons carcinoma samples
+
+30 exons
+

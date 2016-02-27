@@ -1,0 +1,12 @@
+mitogens 9 hypoxia
+1 \ l
+  wm 1 AMP
+\/ g
+
+hypoxia —’ 6
+\
+
+m itogens
+
+ 
+

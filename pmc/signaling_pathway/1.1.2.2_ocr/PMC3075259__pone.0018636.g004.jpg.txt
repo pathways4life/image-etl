@@ -1,0 +1,24 @@
+interaction from PINA
+Oncogeng
+
+activation i
+M2 ~
+
+J /
+
+   
+
+p53 signanng pathway
+in KEGG
+
+ 
+
+target genes
+
+J. downstream target
+0! p53 in KEGG
+
+ 
+
+G2 arrest
+

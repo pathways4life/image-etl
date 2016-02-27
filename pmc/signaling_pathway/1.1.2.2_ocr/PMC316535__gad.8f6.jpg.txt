@@ -1,0 +1,19 @@
+Iin- 15 Iin~3 EGF
+
+\ /
+
+Iet—23 EGFR
+RTK/PTK ;
+\ sem—5 Grb2
+PTP-2 $
+let-60 Ras
+let-60 Ras '-’ ?/ ;
+$ PTP-2 Iin-45 Raf
+mek-2//et-537 MEK ;
+$ mek-2/let-537 MEK
+mpk-1/sur-1 MAPK {
+* mpk-1/sur-1 MAPK
+oogenesis *
+
+induction of vulval precursor cells
+

@@ -1,0 +1,12 @@
+Glucose Nitrogen
+
+J J
+
+G33 TOFC1
+Gpa2 |:Sck1
+PKA
+
+cell length
+spore germination
+fbp1 transcription
+

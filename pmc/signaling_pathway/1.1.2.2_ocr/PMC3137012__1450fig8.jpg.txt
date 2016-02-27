@@ -1,0 +1,10 @@
+sulin
+
+|R  Human adipocyte
+
+P|3K ‘I’
+Akt1I2 I’ JNK2 ‘I’
+CIDEA I» CIDEC 1’
+
+Apoptosis 1 Lipid droplet ‘I’
+

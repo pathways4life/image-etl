@@ -1,0 +1,19 @@
+ENDOTHELIAL CELL Q ”\gUL|N
+
+ 
+
+CAVEOLAE INSULIN .
+
+RECEPTOR 9
+f X max
+
+ 
+ 
+
+3:
+ERK A5‘
+K eNOS
+1 .
+ET-1 NO .
+O
+

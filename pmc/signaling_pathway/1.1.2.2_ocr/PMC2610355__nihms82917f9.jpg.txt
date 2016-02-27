@@ -1,0 +1,30 @@
+Apoptotic Inhibitory
+Complex (AIC)
+
+DR5
+
+Procaspase—8 T FADD
+
+C-FL|P(L)
+
+c-FLlPslRNA —>
+_ DR5 —FADD
+
+DISC
+Activation
+
+ProcaspaseA8
+Caspase-8
+
+Bid~>tBid
+
+Mitochondrial cytochrome c
+
+release
+
+Procaspase-9 —> Caspase-9
+
+Procaspases-6,-7—> CBSPBSES-6,-7
+
+Apoptosis
+

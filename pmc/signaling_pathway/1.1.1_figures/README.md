@@ -1,0 +1,1 @@
+First 100 files are provided here as a sample. The complete set is too large for github and poor practise in repos in general. Of course, the complete set can be generated at any time by following the codebook and using the provided files and folders.

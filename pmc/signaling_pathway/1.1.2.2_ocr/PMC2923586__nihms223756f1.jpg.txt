@@ -1,0 +1,81 @@
+GS Pathway
+
+g.: GNGT1
+
+Palrwlse
+orderings
+
+Rank
+template
+
+g2: GNAS
+
+  
+ 
+ 
+  
+
+g.:ADCY1
+
+Pathway rankings among samples
+
+gs: PRKAR1A
+
+g1 <92
+g1 <93
+g1 <g4
+g1 <g5
+g1 <96
+92<93
+g2<g4
+92<95
+92<96
+93<94
+g3<95
+93<96
+g4<g5
+g4< g6
+95<16
+
+Mlsmatches (of15):
+
+_x..x..-oooo°od.;o_n_
+o_._._._.oooooo_._.o_._.
+
+Rankmatchlngscore:1.000 0.933 0.933 0.933 0.
+
+Observedrank|ngs(of37): 27
+
+1
+
+—-—a—-—--oooooo—-oo-x
+
+1
+
+1
+
+_|_|_|_|_|_|°o°o°_|_|°_|
+
+1
+
+1
+
+_._._._._.oooooo_._._._.
+
+4
+
+_\:
+
+A--c>-o-oooo-ooo-
+
+33 0.
+
+_.a)
+
+<n—-—-o—-c:—-oc>oo—-o—-o—-
+
+67 0.
+
+N$~4oco_._._.oo_.o_._._._._.
+no
+

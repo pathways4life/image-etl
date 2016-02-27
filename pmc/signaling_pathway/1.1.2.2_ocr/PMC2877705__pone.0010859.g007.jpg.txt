@@ -1,0 +1,8 @@
+P|3K
+
+PIP3 I PIP,
+L PTEN 4 7777 7
+AKT 
+L TF(?)
+miR-22
+

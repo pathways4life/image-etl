@@ -1,0 +1,9 @@
+Active @ Trp-285. Trp-233 UVR8 Inactive
+monomer UVR3 dimer
+
+UVR8
+COP1
+
+/( RUP1/
+RUP2
+

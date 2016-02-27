@@ -1,0 +1,14 @@
+TGF-beta
+
+Canonical: SMAD T Non-canonical: RAS-MAPK
+| I
+
+I II I
+
+ 
+
+Cell death and
+
+Bcl-2
+growth suppression Survival, Proliferation
+

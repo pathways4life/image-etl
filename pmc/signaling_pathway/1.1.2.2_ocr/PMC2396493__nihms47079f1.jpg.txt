@@ -1,0 +1,20 @@
+IGF-1 |j IGF-BP3
+
+IGF Receptor IT
+P|3K 4- p1100L |—|
+PlP3 |— pTEN 4- p53
+mTIoR \
+Rictor PDK1
+AKT-1
+J.
+FOXO3a V
+i Apoptosis
+Cell Cycle Arrest
+
+ROS?
+
+Senescence
+
+DNA
+damage
+

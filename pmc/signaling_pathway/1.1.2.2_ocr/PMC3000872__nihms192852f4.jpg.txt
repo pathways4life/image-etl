@@ -1,0 +1,33 @@
+AGE. H202 ........ up
+
+Flow —' MEK5a —>
+
+Ubc9
+(SUMO E2 conjugase)
+
+PIAS1
+
+(SUMO E3 ligase)
+
+I
+
+ERK5-SUMOy|ation
+
+Kinase —» Transcriptional
+
+activity
+
+ie
+
+activity
+
+ERK5
+
+in
+transcription factor
+
+—’ MEF2 —* KLF2 —* eNOS
+
+protein
+expression
+

@@ -1,0 +1,27 @@
+\ A
+Receptor
+{
+
+Before stimulation
+
+Pheromone \
+I
+
+During stimulation
+
+a<D
+
+pa
+
+    
+   
+ 
+    
+
+/
+P13 phosphate
+
+Endosome
+
+Mating genes
+

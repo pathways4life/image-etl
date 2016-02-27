@@ -1,0 +1,19 @@
+Ligand
+
+ 
+
+stimulation
+RAGE ' RAGE
+(resting) (activated)
+PI3K MAPKS
+(Erkl/2, JNK, p38)
+-- IKK signalsome 1
+/ § ®Erkl/2
+®IKK signalsome ®JNK
+Transcription { ®P33
+NF-KB activation 1
+Transcription
+
+Trnnscriptiun
+Figure 2
+

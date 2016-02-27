@@ -1,0 +1,21 @@
+NF1 and NF2 Gene Signaling Pathways
+
+   
+
+Growth Factor Receptors
+
+I: NF2
+Ras ¢
+
+Exchange —> Ras I: GAPs(NF1)
+
+Factors
+(sos) \.
+V Raf
+Rac *? PI3 kinase L
+l PTEN ' ME“
+AKT l
+Rho
+
+mTOR ERK
+

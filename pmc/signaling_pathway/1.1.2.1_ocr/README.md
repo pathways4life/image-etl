@@ -1,0 +1,1 @@
+These are the results of running Adobe OCR as described in the codebook.

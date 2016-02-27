@@ -1,0 +1,32 @@
+A. Unstimulated
+
+Patched
+
+L
+"9
+
+Smoolhened
+(inactive)
+
+O —> A
+G|i2, G|i3 G|i2, G|i3
+(full length (repressor)
+activator)
+
+B. Shh Stimulated
+
+Patched
+
+x
+‘ll
+
+Smoothened
+(active)
+
+/
+Q  A
+
+G|i2, G|i3 G|i2, G|i3
+(full length (repressor)
+activator)
+

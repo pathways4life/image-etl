@@ -1,0 +1,65 @@
+l control
+1 I case
+
+status
+
+Category
+
+Node 0
+“A:
+
+I case
+
+control
+
+53.5 493
+6.5 428
+
+Total
+
+ll
+
+100.0 921
+
+CASP3 rs2720378
+
+lm
+
+provcment=U.003
+
+l
+
+O|G GC1|*CC
+
+Node 1 Node 2
+Caleunn "/o n Cate ory % n
+control 57.8 253 control 49.7 240
+case 42 2 185 case 50.3 243
+Total 47.6 438 Total 52.4 483
+5 5
+
+IL—_7 52069762
+lmprovement=0.003
+
+AIA ACTCC
+
+Node 3 Node 4
+(‘ate my % n Category "A: n
+control 56.2 ll7 control 44.7 123
+case 3.8 I case 55.3 152
+Total 22.6 208 Total 29.9 275
+J 5
+
+STIMI rsl 561876
+lmpmvemenl=0.002
+
+l
+
+AG+|GG AIA
+Node 5 Node 6
+Cate ow % n Categorv % n
+control 52.1 61 control 39.2 62
+I case 47.‘) 56 I case 60.8 ‘)6
+Total l2.7 117 Total |7.2 I58
+5 J
+

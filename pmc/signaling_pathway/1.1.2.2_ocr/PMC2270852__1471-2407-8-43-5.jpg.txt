@@ -1,0 +1,41 @@
+  
+   
+  
+
+EGFR,
+MET receptor
+
+         
+
+PKB[3 — p-STAT3 4/
+
+  
+
+Stress
+1 stimuli
+PTEN -|P|3K/IPIP3 RAS
+
+£ p-mTOR 1 1
+
+p-JNK— p-PKB— p-SGK — P-ERK P-P38
+p—S6
+
+p-STAT3
+nucleus
+SMAD4
+
+ 
+
+ 
+
+   
+        
+
+  
+
+cytoplasm
+
+    
+
+p-PKB p-ERK p-p38
+

@@ -1,0 +1,15 @@
+MODEL OF MIR-456 REGULATION OF PTEN/AKT PATHWAY
+
+miR-486
+
+ANK1 locus
+
+5;
+
+’s‘::ﬁ:i‘::;° PTENIAKT Signaling Cell Cycle Kinetics
+-SFRS1 -PDGFRB
+-SFRS3 -PTEN
+
+-FOXO1
+-PlK3R1
+

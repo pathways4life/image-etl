@@ -1,0 +1,15 @@
+PCV2 infection
+
+EBSS
+
+1? 1
+AMPK Ras
+
+1 1
+ERK1I2 <—- Raf1
+
+:1:
+TSC2
+
+mTOR —I Autophagy
+

@@ -1,0 +1,15 @@
+ArachadonicAcid
+
+mx-1 I 1 CDX-2
+PGE-IVI
+I 'G°2
+
+G15-PGDH 9 PGE2Synthase J Pﬂzaynthase
+
+11 PGH2 —|
+1 PGEZ PG2
+T Angbgenesis i Apoptosis I
+
+T Tumor invasion i Immune arveillance i Tumor invasion
+T Holiferation ¢ Proliferation
+

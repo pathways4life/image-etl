@@ -1,0 +1,15 @@
+/ 1 \
+
+IRE1 ATF6 PERK
+1 1 1
+
+XBP1 cleaved ATF6 ATF4
+1 / 1
+
+\ /
+VEGFAT
+
+1
+
+Angiogenesis
+

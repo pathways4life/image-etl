@@ -1,0 +1,46 @@
+Relative levels of transcript and protein (%)
+
+FVB macrophages
+
+150 IFN-B transcript
+100 I LPS
+I LPS+MSP
+50
+0 .
+1 8 20
+150 TNF-u transcript
+100
+50
+0 .
+) 1 8 20
+15° TNF-a protein
+100
+50
+0 .
+1 20
+Time (h)
+M2/Th2
+
+4-LPS / \LPS+MSP
+
+Zé3©
+
+C57Bl6 macrophages
+150 IFN-3 transcript
+LPS
+I LPS+MSP
+0 .
+1 8 20
+150 TNF-a transcript
+O .
+1 8 20
+‘S0 TNF-at protein
+0 .
+1 20
+ﬁme (h)
+M1/Th1
+
++LP$ / VJ-"$+MSP
+
+ii?
+

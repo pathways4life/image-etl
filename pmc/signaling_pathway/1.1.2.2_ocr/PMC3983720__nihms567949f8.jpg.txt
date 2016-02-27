@@ -1,0 +1,21 @@
+Putative mDA Differentiation Pathway
+
+Upstream Pathway
+
+Dorsomorphin (DM)
+L
+
+BMPS —>A|k3,6 —~SMAD1,5,8J
+
+Downstream Pathway
+
+mDA mDA
+>S|P1I Specification Neurogenesis
+TGFs —-A|k4,5,7—-SMAD2,31 1 /_ s,;.H1._.F°xA2 _.Nu,,1
+Sf 1 ’ I
+35431542 rp l\-'vVr:1111 L 1 P'tx3 >TH
+<- mx a—> I
+I Stg 2 I Stg 3 I Stg 5
+
+————->
+

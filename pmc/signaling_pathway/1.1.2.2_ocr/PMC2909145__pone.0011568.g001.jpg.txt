@@ -1,0 +1,6 @@
+Input wgnal
+
+ 
+
+Output Swgnal
+

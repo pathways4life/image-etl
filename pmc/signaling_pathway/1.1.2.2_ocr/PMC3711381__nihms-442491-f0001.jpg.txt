@@ -1,0 +1,22 @@
+LIGANDS
+
+RECEPTORS
+
+SIGNAL
+TRANSDUCERS
+
+DOWNSTREAM
+TARGETS
+
+BDNF EGF Glu
+J l I
+TrkB EGFR mG|uR
+ERAS Z
+N /
+RAF1
+MEK
+ERK
+
+Downstream kinases Transcription factors Apoptohc mmecules
+(MSK1) (E|k1, CREB) (Caspase 3, 7)
+

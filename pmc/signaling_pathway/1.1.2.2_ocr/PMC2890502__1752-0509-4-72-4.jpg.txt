@@ -1,0 +1,15 @@
+   
+
+Pathwayl
+
+Pathway 1
+
+I Causalgene
+
+I Pathwaylnodes
+I Puthwayznodes
+I Transcnpllonfactnr
+I Promaterregion
+
+I Targetgene
+
