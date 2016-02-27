@@ -6,6 +6,7 @@ The steps below will extract pathway figures and captions from PMC image search 
   * #.#_rawhtml (versioned sets of files)
   * #.#.#_figures (versioned sets of extracted images)
   * #.#.#.#_ocr (versioned sets of OCR results)
+  * #.#.#.x_results (versioned summaries of gene counts from OCR results)
 
 ## PubMed Central Image Extraction
 
